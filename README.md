@@ -12,40 +12,33 @@
 ![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)
 
 ```{=html}
-</p>
-```
-```{=html}
 <p align="center">
-```
-An `<b>`{=html}Industry-Sponsored Machine Learning Project`</b>`{=html}
-developed in collaboration with `<b>`{=html}Wilo Mather and Platt Pumps
-Pvt. Ltd.`</b>`{=html}
-```{=html}
+
+<b>🏭 Industry-Sponsored Machine Learning Project</b><br><br>
+
+Developed in collaboration with <b>Wilo Mather and Platt Pumps Pvt. Ltd.</b>
+
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 🌐 Live Demo
 
-```{=html}
 <p align="center">
-```
-`<a href="https://impeller-diameter-prediction-using.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Web_App-success?style=for-the-badge">`{=html}
-`</a>`{=html}
 
-`<a href="https://wilo-backend-emhd.onrender.com/docs">`{=html}
-`<img src="https://img.shields.io/badge/API-Swagger_Docs-blue?style=for-the-badge">`{=html}
-`</a>`{=html}
+<a href="https://impeller-diameter-prediction-using.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Web%20App-success?style=for-the-badge">
+</a>
 
-`<a href="https://youtu.be/aIAhx2G6czA">`{=html}
-`<img src="https://img.shields.io/badge/▶️_Watch_Project_Walkthrough-YouTube-red?style=for-the-badge">`{=html}
-`</a>`{=html}
+<a href="https://wilo-backend-emhd.onrender.com/docs">
+<img src="https://img.shields.io/badge/API-Swagger%20Docs-blue?style=for-the-badge">
+</a>
 
-```{=html}
+<a href="https://youtu.be/aIAhx2G6czA">
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Walkthrough-YouTube-red?style=for-the-badge">
+</a>
+
 </p>
-```
 
 ------------------------------------------------------------------------
 
