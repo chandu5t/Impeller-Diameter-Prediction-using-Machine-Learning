@@ -57,7 +57,7 @@ Pvt. Ltd.`</b>`{=html}
 <p align="center">
 ```
 `<a href="https://youtu.be/aIAhx2G6czA">`{=html}
-`<img src="Wilo%202.0/assets/thumbnail1.png" width="900">`{=html} 
+`<img src="Wilo 2.0/assets/thumbnail1.png" width="900">`{=html} 
 `</a>`{=html}
 ```{=html}
 </p>
