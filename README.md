@@ -57,7 +57,7 @@ Pvt. Ltd.`</b>`{=html}
 <p align="center">
 ```
 `<a href="https://youtu.be/aIAhx2G6czA">`{=html}
-`<img src="Wilo%202.0/assets/thumbnail1.png" width="900">`{=html}
+`<img src="Wilo%202.0/assets/thumbnail1.png" width="900">`{=html} 
 `</a>`{=html}
 ```{=html}
 </p>
@@ -82,17 +82,6 @@ The application combines:
 -   📊 Interactive Dashboard
 -   🔍 Dataset Similarity Search
 
-------------------------------------------------------------------------
-
-# 🏠 Home Page
-
-```{=html}
-<p align="center">
-```
-`<img src="Wilo%202.0/assets/home-page.png" width="95%">`{=html}
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
@@ -101,7 +90,7 @@ The application combines:
 ```{=html}
 <p align="center">
 ```
-`<img src="Wilo%202.0/assets/architecture.png" width="95%">`{=html}
+`<img src="Wilo%202.0/assets/architecture1.png" width="95%">`{=html}
 ```{=html}
 </p>
 ```
